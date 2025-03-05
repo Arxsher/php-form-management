@@ -11,7 +11,6 @@ A simple PHP web application with two main pages:
 - User information collection
 - File upload functionality
 - Form validation
-- Responsive design
 
 #### Validation Details
 - File upload limited to 1MB ZIP files
@@ -29,11 +28,6 @@ A simple PHP web application with two main pages:
 - HTML5
 - CSS3
 - JavaScript
-
-## Setup Instructions
-1. Clone the repository
-2. Ensure you have PHP installed
-3. Run on a local PHP server
 
 ## Files
 - `main.php`: User registration form
