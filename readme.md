@@ -34,4 +34,4 @@ A simple PHP web application with two main pages:
 - `cmnts.php`: Feedback submission system
 
 ## License
-[Your License Here - e.g., MIT]
+This project is open-source and can be modified freely.
